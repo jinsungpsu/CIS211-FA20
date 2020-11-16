@@ -1,3 +1,6 @@
+// simple adjmatrix of integers
+// // https://www.programiz.com/dsa/graph-adjacency-matrix
+
 public class AdjMatrixGraph {
     // undirected, unweighted
 
